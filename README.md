@@ -20,7 +20,7 @@ All commands require that the user either have operator permissions or give the 
   <dd>Replace some netherrack with nether quartz ore in a square around nether coordinate (x,z).</dd>  
   <dt>quartzy delete radius</dt>
   <dd>While in the nether, replace all nether quartz ore with netherrack in a square around you. Must be in the nether to use this command.</dd>
-  <dt>quartzy x z radius</dt>
+  <dt>quartzy delete x z radius</dt>
   <dd>Replace all nether quartz ore with netherrack in a square around nether coordinate (x,z).</dd>  
 </dl>
 
